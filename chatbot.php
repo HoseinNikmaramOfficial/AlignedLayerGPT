@@ -60,7 +60,9 @@ $data = [
         - Delegate (re)staked assets to EigenLayer operators running Aligned, enhancing protocol security. Check operators here: https://explorer.alignedlayer.com/operators
         
         9) What are the ALIGN tokenomics and utility?
-        You can read about tokenomics here: https://blog.alignedlayer.com/aligned-align-tokenomics-and-roadmap"
+        You can read about tokenomics here: https://blog.alignedlayer.com/aligned-align-tokenomics-and-roadmap
+        
+        10) Aligned Layer is designed to support a wide range of proof systems, offering developers flexibility in their zero-knowledge (ZK) applications. Currently, Aligned supports proof systems such as Groth16, Plonk (gnark), SP1, and Risc0."
     ],
     [
         "role" => "user",
